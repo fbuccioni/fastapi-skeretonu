@@ -1,0 +1,1 @@
+from .abstract_shared import AbstractSharedModel

@@ -1,0 +1,29 @@
+fastapi
+uvicorn
+uvloop
+websockets
+
+# FastAPI plugins
+fastapi-jwt-auth
+fastapi-pagination
+
+# Util packages
+httptools
+orjson
+pytz
+python-dateutil
+pydantic[email]
+pydantic[dotenv]
+
+
+# For MongoDB uncomment below packages
+#motor
+#fastapi_contrib[mongo]
+#azure-cosmos
+#azure-functions
+
+# For SQL uncomment below packages, don't
+# forget to add your db driver
+#sqlmodel
+#aiosqlite
+#alembic
